@@ -252,7 +252,7 @@ export default {
           ssd: "ssd",
           v2ray: "v2ray"
         },
-        backendOptions: [{ value: "http://127.0.0.1:25500/sub?" }],
+        backendOptions: [{ value: "https://subconverter.panwenbo.cn:11443/sub?" }],
         remoteConfig: [
           {
             label: "ACL4SSR",
