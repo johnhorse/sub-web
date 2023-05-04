@@ -1,0 +1,15 @@
+192.168.11.1	alist.panwenbo.cn
+192.168.11.1	aria2.panwenbo.cn
+192.168.11.1	ariang.panwenbo.cn
+192.168.11.1	dsm.panwenbo.cn
+192.168.11.1	drive.panwenbo.cn
+192.168.11.1	drive-sync.panwenbo.cn
+192.168.11.1	git.panwenbo.cn
+192.168.11.1	plex.panwenbo.cn
+192.168.11.1	photos.panwenbo.cn
+192.168.11.1	rules.panwenbo.cn
+192.168.11.1	sub.panwenbo.cn
+192.168.11.1	subscribe.panwenbo.cn
+192.168.11.1	subconverter.panwenbo.cn
+192.168.11.1	vpn.panwenbo.cn
+192.168.11.1	webdav.panwenbo.cn
